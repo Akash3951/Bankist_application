@@ -1,0 +1,19 @@
+{
+  "name": "bankist_application",
+  "version": "1.0.0",
+  "description": "",
+  "default": "index2.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-js": "^2.8.3",
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "core-js": "^3.29.1"
+  }
+}
