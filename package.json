@@ -4,8 +4,8 @@
   "description": "",
   "default": "index2.html",
   "scripts": {
-    "start": "parcel index.html",
-    "build": "parcel build index.html --dist-dir ./dist"
+    "start": "parcel index2.html",
+    "build": "parcel build index2.html --dist-dir ./dist"
   },
   "author": "",
   "license": "ISC",
